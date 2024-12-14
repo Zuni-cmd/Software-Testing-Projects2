@@ -5,10 +5,9 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | JIRA, Selenium, TestRail |
-| Project 2    | Tested a mobile application for compatibility across different devices. | Appium, TestLink |
-| Project 3    | Tested a desktop application for security vulnerabilities. | Burp Suite, Nessus, ZAP |
-
+| Vitamin World | Tested a web application for functionality and usability. | JIRA, Selenium, Demandware, ERP |
+| Wastern Outfiltters | - Tested a mobile application for compatibility across different devices. | Appium, TFS |
+| Transree   | Tested a desktop application for reinsurance domain
 ## Getting Started
 
 To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
